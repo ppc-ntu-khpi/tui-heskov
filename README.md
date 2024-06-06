@@ -1,3 +1,7 @@
+# працююча програма
+![img.png](img.png)
+
+
 # UI Lab 1
 ![](terminal-icon.png)
 ![](gui-icon.png)
